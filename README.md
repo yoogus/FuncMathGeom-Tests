@@ -1,4 +1,9 @@
 # FuncMathGeom-Tests
+Answer tests
+
+![image](https://github.com/yoogus/FuncMathGeom-Tests/assets/110523242/18ce7373-e8ef-4535-8ea0-7abfa287b2f4)
+
+
 public class UnitTestTrigonometryClass
 
 ![image](https://github.com/yoogus/FuncMathGeom-Tests/assets/110523242/904dfafe-31ba-4e67-97c2-ec367404cd4e)
